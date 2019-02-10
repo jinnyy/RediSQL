@@ -6,5 +6,4 @@ SQL on NoSQL
 ## File Organization
 * Python Client (Python)
 * SQL Parser (Python)
-* Modified Redis (C)
 
