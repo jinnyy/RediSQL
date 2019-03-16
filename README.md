@@ -4,6 +4,7 @@ SQL on NoSQL
 <br>
 
 ## File Organization
-* Python Client (Python)
-* SQL Parser (Python)
+* `Main.py`: Main file (이 파일로 실행)
+* `ExecuteQuery.py`: Python Client (Python)
+* `Parser.py`: SQL Parser (Python)
 
